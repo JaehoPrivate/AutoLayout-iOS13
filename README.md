@@ -1,10 +1,10 @@
-# Auto Layout 수업 자료 및 작업 결과물
+# Auto Layout 수업으로 배운 점 및 원자료
 
 ## 실습으로 배운 점
 * 스마트 기기 별 화면 크기가 다른데, 어떤 기기에서 앱을 사용하더라도 일관된 형태의 화면을 제시할 수 있어야 함.
 * Label, Botton 등의 크기와 위치에 대한 조건 설정 및 Stack View 활용 방법 연습.
 
-## 수업 원자료는 아래를 참고
+## 수업 원자료는 아래와 같음
 
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
