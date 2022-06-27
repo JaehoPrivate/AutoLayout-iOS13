@@ -4,6 +4,8 @@
 * 스마트 기기 별 화면 크기가 다른데, 어떤 기기에서 앱을 사용하더라도 일관된 형태의 화면을 제시할 수 있어야 함.
 * Label, Botton 등의 크기와 위치에 대한 조건 설정 및 Stack View 활용 방법 연습.
 
+* 수업에 대한 원자료 및 설명은 아래와 같음
+
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Auto Layout 
